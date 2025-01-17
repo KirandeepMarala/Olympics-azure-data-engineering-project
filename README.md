@@ -1,1 +1,1 @@
-# olympic-azure-project
+# Olympics-azure-data-engineering-project
