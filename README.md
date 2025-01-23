@@ -41,10 +41,11 @@ Below is the high-level architecture of the project:
 ## ⚙️ Step-by-Step Implementation
 
 ### 1. Data Ingestion with Azure Data Factory
+![datafactory pipeline](https://github.com/KirandeepMarala/Olympics-azure-data-engineering-project/blob/main/Images/datafactory_pipeline.png) 
 - Created a **data pipeline** to ingest data from a public GitHub repository.  
 - Used a **parameterized approach**, with lookups and **For Each** activity to copy multiple files.  
 - Stored the raw data in **Azure Data Lake Storage Gen2**.
-- ![datafactory pipeline](https://github.com/KirandeepMarala/Olympics-azure-data-engineering-project/blob/main/Images/datafactory_pipeline.png) 
+
 
 
 ### 2. Data Processing with Azure Databricks
