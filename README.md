@@ -63,9 +63,13 @@ Below is the high-level architecture of the project:
   *(Add your screenshot here)*  
 
 ### 3. Data Warehousing with Azure Synapse Analytics
-![lake database](https://github.com/KirandeepMarala/Olympics-azure-data-engineering-project/blob/main/Images/lake_database.png) 
+<div align="center">
+  <img src="https://github.com/KirandeepMarala/Olympics-azure-data-engineering-project/blob/main/Images/lake_database.png" alt="lake database">
+</div>
+
 - Created a **Lake Database** in **Azure Synapse Analytics** to query transformed data.  
 - Used **SQL Serverless Pool** for data analysis.
+
 
 ### 4. Data Visualization with Power BI
 - Connected **Power BI** to Synapse Analytics to build interactive dashboards.  
