@@ -50,6 +50,7 @@ Below is the high-level architecture of the project:
 
 
 ### 2. Data Processing with Azure Databricks
+![databricks mount tables](https://github.com/KirandeepMarala/Olympics-azure-data-engineering-project/blob/main/Images/azure_databricks.png) 
 - Mounted the ADLS storage to Databricks using **dbutils** and created a **secret scope** for secure access.  
 - Used **PySpark** in Databricks to clean and transform the raw data.  
 - Below transformations were performed:
@@ -59,8 +60,6 @@ Below is the high-level architecture of the project:
   - Changed data types for consistency.
   - Added a new column: **country codes**.
 - Processed data was written back to **Azure Data Lake Storage Gen2** in a structured **Parquet** format.  
-- **Screenshot**:  
-  *(Add your screenshot here)*  
 
 ### 3. Data Warehousing with Azure Synapse Analytics
 <div align="center">
@@ -69,7 +68,6 @@ Below is the high-level architecture of the project:
 
 - Created a **Lake Database** in **Azure Synapse Analytics** to query transformed data.  
 - Used **SQL Serverless Pool** for data analysis.
-
 
 ### 4. Data Visualization with Power BI
 - Connected **Power BI** to Synapse Analytics to build interactive dashboards.  
