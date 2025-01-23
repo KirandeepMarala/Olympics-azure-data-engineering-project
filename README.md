@@ -5,14 +5,6 @@ This project is an **end-to-end data engineering solution** to analyze the Tokyo
 
 ---
 
-## 🚀 Features
-- **Data Ingestion**: Seamless data pipeline using **Azure Data Factory**.
-- **Data Processing**: Scalable transformations with **Azure Databricks**.
-- **Data Warehousing**: Efficient storage and querying using **Azure Synapse Analytics**.
-- **Visualization**: Insightful and interactive dashboard with **Power BI**.
-
----
-
 ## 📁 Dataset
 - **Dataset Name**: 2021 Olympics in Tokyo  
 - **Source**: [Kaggle](https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo)
