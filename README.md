@@ -88,3 +88,22 @@ Below is the high-level architecture of the project:
   *(Add your visual here)*  
 
 ---
+
+## 📜 How to Run This Project
+
+#### 1. Clone the Repository:
+```bash
+git clone https://github.com/KirandeepMarala/Olympics-azure-data-engineering-project.git
+ ```
+#### 2. Set Up Azure Resources:
+   - Provision Azure Data Factory, Data Lake, Databricks, and Synapse Analytics.
+#### 3. Configure Pipelines:
+   - Import the Data Factory pipeline JSON and configure the GitHub data source.
+#### 4. Run Databricks Notebooks:
+   - Execute transformations and load the processed data back to ADLS.
+#### 5. Create Lakedatabase
+   - Using Synapse analytics, create lake database.
+#### 6. Connect Power BI:
+   - Use the Power BI desktop to connect to Synapse and build visuals.
+
+---
