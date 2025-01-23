@@ -104,6 +104,16 @@ git clone https://github.com/KirandeepMarala/Olympics-azure-data-engineering-pro
 6. **Connect Power BI**: Use the Power BI desktop to connect to Synapse and build visuals.
 ---
 
+## 🙏 Credits & Acknowledgments
+
+This project was guided and inspired by a tutorial from **Darshil Parmar** on his YouTube channel. His comprehensive and insightful content helped in shaping this end-to-end data engineering pipeline.  
+
+You can watch the tutorial here: [End-to-End Azure Data Engineering Project - Darshil Parmar](https://www.youtube.com/watch?v=IaA9YNlg5hM)
+
+A big thanks to him for creating such a detailed and helpful resource!
+
+---
+
 ## 🎯 Conclusion
 This project demonstrates a comprehensive **data engineering pipeline**, showcasing how to process, store, and visualize data in a cloud-native ecosystem. The **Power BI dashboard** provides an intuitive way to explore and understand Tokyo Olympics 2021 data.
 
