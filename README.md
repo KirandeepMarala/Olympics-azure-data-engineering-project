@@ -72,9 +72,6 @@ Below is the high-level architecture of the project:
   - Medal count by country.
   - Athlete performance by sport.
   - Gender-wise medal distribution.  
-- **Screenshot**:  
-  *(Add your screenshot here)*  
-
 ---
 
 ## 📊 Sample Power BI Visuals
