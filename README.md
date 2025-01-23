@@ -12,7 +12,7 @@ This project is an **end-to-end data engineering solution** to analyze the Tokyo
 ---
 
 ## 🛠️ Tools & Technologies Used
-[All Resources](https://github.com/KirandeepMarala/Olympics-azure-data-engineering-project/blob/main/Images/all_resources.png)
+![All Resources](https://github.com/KirandeepMarala/Olympics-azure-data-engineering-project/blob/main/Images/all_resources.png)
 - **Azure Data Factory**: For data ingestion pipelines.
 - **Azure Data Lake Storage Gen2**: To store raw and processed data.
 - **Azure Databricks**: For data transformation and ETL.
