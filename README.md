@@ -42,3 +42,57 @@ Below is the high-level architecture of the project:
    - Created a **Lake Database** in **Azure Synapse Analytics** for structured querying.
 4. **Visualization**:
    - Connected **Power BI** to Synapse Analytics to build interactive visuals and dashboards.
+
+---
+
+
+## ⚙️ Step-by-Step Implementation
+
+### 1. Data Ingestion with Azure Data Factory
+- Created a **data pipeline** to ingest data from a public GitHub repository.  
+- Used a **parameterized approach**, with lookups and **For Each** activity to copy multiple files.  
+- Stored the raw data in **Azure Data Lake Storage Gen2**.  
+- **Screenshot**:  
+  *(Add your screenshot here)*  
+
+### 2. Data Processing with Azure Databricks
+- Mounted the ADLS storage to Databricks using **dbutils** and created a **secret scope** for secure access.  
+- Used **PySpark** in Databricks to clean and transform the raw data.  
+- Below transformations were performed:
+  - Changed column names to appropriate names.
+  - Replaced null values with appropriate defaults.
+  - Checked and removed duplicate rows.
+  - Changed data types for consistency.
+  - Added a new column: **country codes**.
+- Processed data was written back to **Azure Data Lake Storage Gen2** in a structured **Parquet** format.  
+- **Screenshot**:  
+  *(Add your screenshot here)*  
+
+### 3. Data Warehousing with Azure Synapse Analytics
+- Created a **Lake Database** in **Azure Synapse Analytics** to query transformed data.  
+- Used **SQL Serverless Pool** for data analysis.  
+- **Screenshot**:  
+  *(Add your screenshot here)*  
+
+### 4. Data Visualization with Power BI
+- Connected **Power BI** to Synapse Analytics to build interactive dashboards.  
+- **Key Visuals**:
+  - Medal count by country.
+  - Athlete performance by sport.
+  - Gender-wise medal distribution.  
+- **Screenshot**:  
+  *(Add your screenshot here)*  
+
+---
+
+## 📊 Sample Power BI Visuals
+- **Visual 1**: Medal Distribution by Country  
+  *(Add your visual here)*  
+
+- **Visual 2**: Athlete Performance by Sport  
+  *(Add your visual here)*  
+
+- **Visual 3**: Gender-wise Medal Count  
+  *(Add your visual here)*  
+
+---
