@@ -103,3 +103,18 @@ git clone https://github.com/KirandeepMarala/Olympics-azure-data-engineering-pro
 5. **Create Lakedatabase**: Using Synapse analytics, create lake database.
 6. **Connect Power BI**: Use the Power BI desktop to connect to Synapse and build visuals.
 ---
+
+## 🎯 Conclusion
+This project demonstrates a comprehensive **data engineering pipeline**, showcasing how to process, store, and visualize data in a cloud-native ecosystem. The **Power BI dashboard** provides an intuitive way to explore and understand Tokyo Olympics 2021 data.
+
+Feel free to reach out for any questions or suggestions! 😊
+
+---
+
+## 📬 Contact
+
+- **Author**: [kirandeep Marala](#)
+- **Email**: [kirandeep.marala@gmail.com](mailto:kirandeep.marala@gmail.com)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/kirandeepmarala/)
+
+---
