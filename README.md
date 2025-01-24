@@ -70,23 +70,12 @@ Below is the high-level architecture of the project:
 - Used **SQL Serverless Pool** for data analysis.
 
 ### 4. Data Visualization with Power BI
-- Connected **Power BI** to Synapse Analytics to build interactive dashboards.  
+- Connected **Power BI** to Synapse Analytics to build interactive dashboards.
+- Live Interactive Dashboard Link: [Click Here](https://www.youtube.com/watch?v=IaA9YNlg5hM)
 - **Key Visuals**:
   - Medal count by country.
   - Athlete performance by sport.
   - Gender-wise medal distribution.  
----
-
-## 📊 Sample Power BI Visuals
-- **Visual 1**: Medal Distribution by Country  
-  *(Add your visual here)*  
-
-- **Visual 2**: Athlete Performance by Sport  
-  *(Add your visual here)*  
-
-- **Visual 3**: Gender-wise Medal Count  
-  *(Add your visual here)*  
-
 ---
 
 ## 📜 How to Run This Project
