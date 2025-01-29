@@ -1,0 +1,6 @@
+﻿file_name,data_source_link,targetpath
+Athletes.csv,https://raw.githubusercontent.com/KirandeepMarala/Olympics-azure-data-engineering-project/refs/heads/main/data/raw-data/Athletes.csv,raw-data
+Coaches.csv,https://raw.githubusercontent.com/KirandeepMarala/Olympics-azure-data-engineering-project/refs/heads/main/data/raw-data/Coaches.csv,raw-data
+EntriesGender.csv,https://raw.githubusercontent.com/KirandeepMarala/Olympics-azure-data-engineering-project/refs/heads/main/data/raw-data/EntriesGender.csv,raw-data
+Medals.csv,https://raw.githubusercontent.com/KirandeepMarala/Olympics-azure-data-engineering-project/refs/heads/main/data/raw-data/Medals.csv,raw-data
+Teams.csv,https://raw.githubusercontent.com/KirandeepMarala/Olympics-azure-data-engineering-project/refs/heads/main/data/raw-data/Teams.csv,raw-data

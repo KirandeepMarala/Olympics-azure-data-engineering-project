@@ -1,0 +1,18 @@
+{
+    "name": "HttpServer_ls",
+    "type": "Microsoft.DataFactory/factories/linkedservices",
+    "properties": {
+        "parameters": {
+            "data_source_link": {
+                "type": "string"
+            }
+        },
+        "annotations": [],
+        "type": "HttpServer",
+        "typeProperties": {
+            "url": "@{linkedService().data_source_link}",
+            "enableServerCertificateValidation": true,
+            "authenticationType": "Anonymous"
+        }
+    }
+}
