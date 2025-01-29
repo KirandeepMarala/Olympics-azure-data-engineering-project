@@ -70,13 +70,9 @@ Below is the high-level architecture of the project:
 - Used **SQL Serverless Pool** for data analysis.
 
 ### 4. Data Visualization with Power BI
-
+![Medals Analysis](https://github.com/KirandeepMarala/Olympics-azure-data-engineering-project/blob/main/Images/dashboard_medals_performances.png) 
 - Connected **Power BI** to Synapse Analytics to build interactive dashboards.
 - Live Interactive Dashboard Link: [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYjE3OTUwYTQtNWJjZi00ODM3LTk5ZTItMTk5NDFlOTFkNDhkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-- **Key Visuals**:
-  - Medal count by country.
-  - Athlete performance by sport.
-  - Gender-wise medal distribution.  
 ---
 
 ## 📜 How to Run This Project
