@@ -72,7 +72,7 @@ Below is the high-level architecture of the project:
 ### 4. Data Visualization with Power BI
 ![Medals Analysis](https://github.com/KirandeepMarala/Olympics-azure-data-engineering-project/blob/main/Images/dashboard_medals_performances.png) 
 - Connected **Power BI** to Synapse Analytics to build interactive dashboards.
-- Live Interactive Dashboard Link: [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYjE3OTUwYTQtNWJjZi00ODM3LTk5ZTItMTk5NDFlOTFkNDhkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- Live Interactive Report Link: [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYjE3OTUwYTQtNWJjZi00ODM3LTk5ZTItMTk5NDFlOTFkNDhkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ---
 
 ## 📜 How to Run This Project
