@@ -101,7 +101,7 @@ A big thanks to him for creating such a detailed and helpful resource!
 ---
 
 ## 🎯 Conclusion
-This project demonstrates a comprehensive **data engineering pipeline**, showcasing how to process, store, and visualize data in a cloud-native ecosystem. The **Power BI dashboard** provides an intuitive way to explore and understand Tokyo Olympics 2021 data.
+This project demonstrates a comprehensive **data engineering pipeline**, showcasing how to process, store, and visualize data in a cloud-native ecosystem. The **Power BI report** provides an intuitive way to explore and understand Tokyo Olympics 2021 data.
 
 Feel free to reach out for any questions or suggestions! 😊
 
