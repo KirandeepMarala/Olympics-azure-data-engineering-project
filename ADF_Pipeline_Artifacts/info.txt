@@ -1,6 +1,0 @@
-selected resource name:		Ingest datasets
-selected resource type:		pipeline
-factory name:			tokya-olympics-pipeline-df
-factory location:		centralindia
-subscription id:		a8e87592-1511-49fa-badb-5e9c6a89b546
-time of download (UTC):		Fri, 24 Jan 2025 10:56:50 GMT
